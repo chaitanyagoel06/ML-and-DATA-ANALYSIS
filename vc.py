@@ -1,3 +1,7 @@
+# in this file the code for video classification has been given. in this we have taken short span of videos to identify the type of activity 
+# that is being done. the video has been divided into various frames and we have done image classification on those frames to identify
+# the activity
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
